@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(255, 255, 255);
+    
+}
+
+.logo {
+    display:flex;
+    justify-content: center;
+    align-items: flex-start;
+    height: 200vh;
+    margin: 0;
+    position: fixed;
+    top: 30;
+    left: 50%;
+    transform: translateX(-50%);
+    z-index: 9999; /* Certifica-se de que o SVG fique na parte superior */
+}
