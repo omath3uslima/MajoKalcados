@@ -15,3 +15,56 @@ body {
     transform: translateX(-50%);
     z-index: 9999; /* Certifica-se de que o SVG fique na parte superior */
 }
+
+
+.ButtonInsta {
+    display:flex;
+    justify-content: center;
+    align-items: flex-start;
+    height: 200vh;
+    margin: 0;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%);
+    z-index: 9999; /
+}
+
+.ButtonFace {
+    display:flex;
+    justify-content: center;
+    align-items: flex-start;
+    height: 200vh;
+    margin: 0;
+    position: fixed;
+    top: 60%;
+    left: 50%;
+    transform: translateX(-50%);
+    z-index: 9999; 
+}
+
+.ButtonAttendant1{
+    display:flex;
+    justify-content: center;
+    align-items: flex-start;
+    height: 200vh;
+    margin: 0;
+    position: fixed;
+    top: 70%;
+    left: 50%;
+    transform: translateX(-50%);
+    z-index: 9999; /
+}
+
+.ButtonAttendant2{
+    display:flex;
+    justify-content: center;
+    align-items: flex-start;
+    height: 200vh;
+    margin: 0;
+    position: fixed;
+    top: 80%;
+    left: 50%;
+    transform: translateX(-50%);
+    z-index: 9999; /
+}
