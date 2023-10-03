@@ -7,64 +7,76 @@ body {
     display:flex;
     justify-content: center;
     align-items: flex-start;
-    height: 200vh;
+    width: 261px;
+    height: 261px;
     margin: 0;
     position: fixed;
-    top: 30;
+    top: 5%;
     left: 50%;
     transform: translateX(-50%);
-    z-index: 9999; /* Certifica-se de que o SVG fique na parte superior */
+   /* Certifica-se de que o SVG fique na parte superior */
 }
 
-
-.ButtonInsta {
-    display:flex;
-    justify-content: center;
-    align-items: flex-start;
-    height: 200vh;
-    margin: 0;
-    position: fixed;
-    top: 50%;
-    left: 50%;
-    transform: translateX(-50%);
-    z-index: 9999; /
+.INSTAGRAM {
+    width: 497px;
+    height: 91px;
+    border-radius: 28px;
+    background: #F61A69;
+    color: #FFF;
+    text-align: center;
+    font-family: Jomhuria;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+    cursor: pointer;
+    margin: 30px;
 }
 
-.ButtonFace {
-    display:flex;
-    justify-content: center;
-    align-items: flex-start;
-    height: 200vh;
-    margin: 0;
-    position: fixed;
-    top: 60%;
-    left: 50%;
-    transform: translateX(-50%);
-    z-index: 9999; 
+.FACEBOOK {
+    width: 497px;
+    height: 91px;
+    border-radius: 28px;
+    background: #F61A69;
+    color: #FFF;
+    text-align: center;
+    font-family: Jomhuria;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+    cursor: pointer;
+    margin: 30px;
 }
 
-.ButtonAttendant1{
-    display:flex;
-    justify-content: center;
-    align-items: flex-start;
-    height: 200vh;
-    margin: 0;
-    position: fixed;
-    top: 70%;
-    left: 50%;
-    transform: translateX(-50%);
-    z-index: 9999; /
+.ATENDENTE_1 {
+    width: 497px;
+    height: 91px;
+    border-radius: 28px;
+    background: #F61A69;
+    color: #FFF;
+    text-align: center;
+    font-family: Jomhuria;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+    cursor: pointer;
+    margin: 30px;
 }
 
-.ButtonAttendant2{
-    display:flex;
-    justify-content: center;
-    align-items: flex-start;
-    height: 200vh;
-    margin: 0;
-    position: fixed;
-    top: 80%;
-    left: 50%;
-    transform: translateX(-50%);
-    z-index: 9999; /
+.ATENDENTE_2 {
+    width: 497px;
+    height: 91px;
+    border-radius: 28px;
+    background: #F61A69;
+    color: #FFF;
+    text-align: center;
+    font-family: Jomhuria;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+    cursor: pointer;
+    margin: 30px;
 }
