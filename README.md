@@ -4,7 +4,7 @@
 Social-Linking da Loja Majô Kalçados 
 </p>
 
-<p align="center">https://github.com/omath3uslima/MajoKalcados/</p>
+<p align="center">https://curtlink.com/33b</p>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -35,7 +35,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Esse projeto foi feito para suprir as necessidades da loja virtual Majo Kalçados,que era centralizar os principais links da loja.
+Esse projeto foi feito para suprir as necessidades da loja virtual Majô Kalçados,que era centralizar os principais links da loja.
 
 ## 🔖 Layout
 
