@@ -1,7 +1,7 @@
-<h1 align="center"> MAJÔ KALÇADOS🩷 </h1>
+<h1 align="center"> MAJÔ KALÇADOS</h1>
 
 <p align="center">
-Social-linking da Loja Majô Kalçados 
+Social-Linking da Loja Majô Kalçados 
 </p>
 
 <p align="center">https://github.com/omath3uslima/MajoKalcados/</p>
