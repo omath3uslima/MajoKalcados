@@ -1,6 +1,6 @@
 /* Estilos para os botões */
 .INSTAGRAM, .FACEBOOK, .ATENDENTE_1, .ATENDENTE_2 {
-    width: 497px;
+    width: 498px;
     height: 91px;
     margin-left: auto;
     margin-right: auto; 
@@ -15,6 +15,7 @@
     line-height: normal;
     cursor: pointer;
     margin-bottom: 16px;
+    text-decoration: none;
 }
 
 .INSTAGRAM, .FACEBOOK, .ATENDENTE_1, .ATENDENTE_2 {
