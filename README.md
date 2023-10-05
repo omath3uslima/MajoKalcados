@@ -1,4 +1,4 @@
-<h1 align="center"> Majô Kalçados </h1>
+<h1 align="center"> MAJÔ KALÇADOS🩷 </h1>
 
 <p align="center">
 Social-linking da Loja Majô Kalçados 
