@@ -1,7 +1,7 @@
 <h1 align="center"> Majô Kalçados </h1>
 
 <p align="center">
-Social-linking da loja Majô Kalçados 
+Social-linking da Loja Majô Kalçados 
 </p>
 
 <p align="center">https://github.com/omath3uslima/MajoKalcados/</p>
@@ -20,7 +20,7 @@ Social-linking da loja Majô Kalçados
 <br>
 
 <p align="center">
-  <img alt="layoult" src=".github/layoult.png" width="100%">
+  <img alt="layoult" src="./layoult.PNG" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -44,5 +44,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
-git
+Feito com ♥ by Matheus 
