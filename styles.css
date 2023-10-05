@@ -4,6 +4,7 @@
     height: 91px;
     margin-left: auto;
     margin-right: auto; 
+    margin-bottom: 20px;
     border-radius: 28px;
     background: #F61A69;
     color: #FFF;
@@ -50,7 +51,6 @@
     margin-top: 40px; /* Reduza a margem superior para mover os botões mais para baixo */
 }
 
-/* Estilos para telas menores (exemplo: celulares) */
 @media (max-width: 768px) {
     .logo {
         height: auto;
@@ -63,10 +63,5 @@
 
     .button-container {
         margin-top: 10px; /* Reduza a margem superior para os botões */
-    }
-
-    /* Ajuste os estilos dos botões para telas menores, se necessário */
-    .INSTAGRAM, .FACEBOOK, .ATENDENTE_1, .ATENDENTE_2 {
-        /* Estilos específicos para telas menores */
     }
 }
