@@ -60,7 +60,7 @@
     .logosvg {
         max-width: 80%; /* Reduza o tamanho da logo para se encaixar melhor em telas menores */
         margin-top: 10px; /* Reduza a margem superior */
-        max-width: 60%;
+        max-width: 70%;
     }
 
     .button-container {
