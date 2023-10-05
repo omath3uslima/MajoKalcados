@@ -35,7 +35,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Sobre o Projeto:
 
-Esse projeto foi desenvolvido para suprir as necessidades da Loja Virtual: Majô Kalçados, 
+Essa plataforma foi desenvolvida para suprir as necessidades da Loja Virtual: Majô Kalçados, 
 para organizar melhor os principais links da Loja.
 
 ## 🔖 Layout
