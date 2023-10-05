@@ -67,3 +67,24 @@
         margin-top: 10px; /* Reduza a margem superior para os botões */
     }
 }
+/* Estilos para o footer */
+footer {
+    color: #000000; /* Cor do texto no footer */
+    text-align: center; /* Centraliza o texto */
+    padding: 10px 0; /* Espaçamento interno no footer */
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 12px; /* Tamanho da fonte */
+    font-weight: bold; /* Negrito */
+}
+
+/* Estilos para o texto no footer */
+.footer-text {
+    margin: 0;
+}
+
+/* Estilos responsivos para o footer */
+@media (max-width: 768px) {
+    footer {
+        font-size: 10px; /* Reduz o tamanho da fonte em telas menores */
+    }
+}
