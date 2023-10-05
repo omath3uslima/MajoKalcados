@@ -1,7 +1,7 @@
 <h1 align="center"> Majô Kalçados </h1>
 
 <p align="center">
-Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
+Social-linking da loja Majô Kalçados 
 </p>
 
 <p align="center">https://github.com/omath3uslima/MajoKalcados/</p>
@@ -32,7 +32,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Calendário da Copa é um projeto que mostra os jogos da Copa de 2022.
+Esse projeto foi feito para suprir as necessidades da loja virtual Majo Kalçados,que era centralizar os principais links da loja.
 
 ## 🔖 Layout
 
